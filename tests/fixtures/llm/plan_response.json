@@ -1,0 +1,228 @@
+{
+ "recipes": [
+  {
+   "variant": "budget",
+   "name": "Pasta mit Thunfisch-Tomatensauce und Mozzarella",
+   "description": "Günstige Pasta mit Thunfisch, Tomatensauce und Mozzarella. Viel Kohlenhydrate für den Laufumfang und solides Protein.",
+   "portions": 1,
+   "cooking_minutes": 30,
+   "equipment": [
+    "Herd"
+   ],
+   "ingredients": [
+    {
+     "name": "Vollkorn Spaghetti (Trockengewicht)",
+     "grams": 150,
+     "search_term": "Spaghetti Vollkorn",
+     "base_ingredient": true
+    },
+    {
+     "name": "Thunfisch im eigenen Saft",
+     "grams": 150,
+     "search_term": "Thunfisch naturel",
+     "base_ingredient": false
+    },
+    {
+     "name": "Passierte Tomaten",
+     "grams": 250,
+     "search_term": "Passata",
+     "base_ingredient": false
+    },
+    {
+     "name": "Zwiebel",
+     "grams": 80,
+     "search_term": "Zwiebeln",
+     "base_ingredient": false
+    },
+    {
+     "name": "Knoblauch",
+     "grams": 10,
+     "search_term": "Knoblauch",
+     "base_ingredient": false
+    },
+    {
+     "name": "Mozzarella",
+     "grams": 125,
+     "search_term": "Mozzarella",
+     "base_ingredient": false
+    },
+    {
+     "name": "Olivenöl",
+     "grams": 15,
+     "search_term": "Olivenöl",
+     "base_ingredient": true
+    },
+    {
+     "name": "Oregano getrocknet",
+     "grams": 2,
+     "search_term": "Oregano",
+     "base_ingredient": true
+    }
+   ],
+   "steps": [
+    "Wasser für die Spaghetti aufsetzen und die Pasta nach Packungsanleitung al dente kochen.",
+    "Zwiebel und Knoblauch fein hacken und im Olivenöl in einer Pfanne glasig dünsten.",
+    "Passierte Tomaten und Oregano zugeben und 10 Minuten köcheln lassen.",
+    "Thunfisch abtropfen lassen, zur Sauce geben und kurz erwärmen.",
+    "Pasta abgiessen, mit der Sauce mischen und mit zerzupftem Mozzarella servieren."
+   ],
+   "estimated_price_chf_per_portion": 5.4,
+   "estimated_macros_per_portion": {
+    "kcal": 1050,
+    "carbs_g": 125,
+    "protein_g": 80,
+    "fat_g": 28
+   }
+  },
+  {
+   "variant": "schnell",
+   "name": "Poulet-Gemüse-Reis-Pfanne mit Ei",
+   "description": "Schnelle Pfanne mit Pouletstreifen, Gemüse und Reis aus dem Beutel, plus Spiegelei. Wenig Abwasch dank einer Pfanne.",
+   "portions": 1,
+   "cooking_minutes": 20,
+   "equipment": [
+    "Herd",
+    "Mikrowelle"
+   ],
+   "ingredients": [
+    {
+     "name": "Pouletbrust",
+     "grams": 200,
+     "search_term": "Pouletbrust",
+     "base_ingredient": false
+    },
+    {
+     "name": "Basmati Reis (Express-Beutel, gegart)",
+     "grams": 250,
+     "search_term": "Basmati Reis Express",
+     "base_ingredient": true
+    },
+    {
+     "name": "Peperoni",
+     "grams": 150,
+     "search_term": "Peperoni",
+     "base_ingredient": false
+    },
+    {
+     "name": "Zucchetti",
+     "grams": 150,
+     "search_term": "Zucchetti",
+     "base_ingredient": false
+    },
+    {
+     "name": "Ei",
+     "grams": 60,
+     "search_term": "Eier",
+     "base_ingredient": false
+    },
+    {
+     "name": "Sojasauce",
+     "grams": 20,
+     "search_term": "Sojasauce",
+     "base_ingredient": true
+    },
+    {
+     "name": "Rapsöl",
+     "grams": 15,
+     "search_term": "Rapsöl",
+     "base_ingredient": true
+    }
+   ],
+   "steps": [
+    "Pouletbrust in Streifen und Gemüse in Würfel schneiden.",
+    "Öl in einer grossen Pfanne erhitzen und das Poulet 6 bis 7 Minuten kräftig anbraten.",
+    "Peperoni und Zucchetti zugeben und 5 Minuten mitbraten.",
+    "Reis nach Packungsanleitung in der Mikrowelle erwärmen, in die Pfanne geben und mit Sojasauce würzen.",
+    "Ei zur Seite braten oder als Spiegelei obenauf servieren."
+   ],
+   "estimated_price_chf_per_portion": 6.8,
+   "estimated_macros_per_portion": {
+    "kcal": 1000,
+    "carbs_g": 115,
+    "protein_g": 75,
+    "fat_g": 28
+   }
+  },
+  {
+   "variant": "aufwendig",
+   "name": "Ofen-Lachs mit Kartoffeln und Rahmspinat",
+   "description": "Lachsfilet mit knusprigen Ofenkartoffeln und cremigem Rahmspinat. Etwas Besonderes mit viel Protein und Omega-3, preislich leicht über dem Budget.",
+   "portions": 1,
+   "cooking_minutes": 40,
+   "equipment": [
+    "Ofen",
+    "Herd"
+   ],
+   "ingredients": [
+    {
+     "name": "Lachsfilet",
+     "grams": 180,
+     "search_term": "Lachsfilet",
+     "base_ingredient": false
+    },
+    {
+     "name": "Festkochende Kartoffeln",
+     "grams": 550,
+     "search_term": "Kartoffeln festkochend",
+     "base_ingredient": false
+    },
+    {
+     "name": "Blattspinat Tiefkühl",
+     "grams": 250,
+     "search_term": "Blattspinat tiefgekühlt",
+     "base_ingredient": false
+    },
+    {
+     "name": "Halbrahm",
+     "grams": 60,
+     "search_term": "Halbrahm",
+     "base_ingredient": false
+    },
+    {
+     "name": "Knoblauch",
+     "grams": 5,
+     "search_term": "Knoblauch",
+     "base_ingredient": false
+    },
+    {
+     "name": "Zitrone",
+     "grams": 40,
+     "search_term": "Zitrone",
+     "base_ingredient": false
+    },
+    {
+     "name": "Magerquark",
+     "grams": 150,
+     "search_term": "Magerquark",
+     "base_ingredient": false
+    },
+    {
+     "name": "Olivenöl",
+     "grams": 20,
+     "search_term": "Olivenöl",
+     "base_ingredient": true
+    },
+    {
+     "name": "Paprika Gewürz",
+     "grams": 3,
+     "search_term": "Paprika Gewürz",
+     "base_ingredient": true
+    }
+   ],
+   "steps": [
+    "Ofen auf 220 °C Umluft vorheizen.",
+    "Kartoffeln in Spalten schneiden, mit der Hälfte des Öls und Paprika mischen und 30 Minuten backen.",
+    "Spinat mit Knoblauch in einer Pfanne auftauen und garen, Halbrahm zugeben und einkochen lassen.",
+    "Lachs mit restlichem Öl und Zitronensaft beträufeln und die letzten 12 Minuten mit den Kartoffeln im Ofen garen.",
+    "Alles anrichten und den Magerquark mit etwas Zitronensaft als Dip dazu servieren."
+   ],
+   "estimated_price_chf_per_portion": 9.9,
+   "estimated_macros_per_portion": {
+    "kcal": 1100,
+    "carbs_g": 105,
+    "protein_g": 80,
+    "fat_g": 42
+   }
+  }
+ ]
+}

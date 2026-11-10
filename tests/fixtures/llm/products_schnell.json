@@ -1,0 +1,375 @@
+{
+ "Pouletbrust": [
+  {
+   "chain": "migros",
+   "product_id": "mock-migros-000",
+   "name": "M-Classic Pouletbrust",
+   "brand": null,
+   "size_value": 300.0,
+   "size_unit": "g",
+   "price_chf": 7.95,
+   "regular_price_chf": null,
+   "unit_price_chf": 26.5,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 105.0,
+    "carbs_g": 0.0,
+    "protein_g": 23.0,
+    "fat_g": 1.2
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "denner",
+   "product_id": "mock-denner-001",
+   "name": "Denner Pouletbrustfilet",
+   "brand": null,
+   "size_value": 400.0,
+   "size_unit": "g",
+   "price_chf": 8.9,
+   "regular_price_chf": null,
+   "unit_price_chf": 22.25,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 105.0,
+    "carbs_g": 0.0,
+    "protein_g": 23.0,
+    "fat_g": 1.2
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "coop",
+   "product_id": "mock-coop-002",
+   "name": "Coop Pouletbrust Schnitzel",
+   "brand": null,
+   "size_value": 250.0,
+   "size_unit": "g",
+   "price_chf": 6.5,
+   "regular_price_chf": 8.1,
+   "unit_price_chf": 26.0,
+   "unit_price_per": "kg",
+   "promotion": true,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 105.0,
+    "carbs_g": 0.0,
+    "protein_g": 23.0,
+    "fat_g": 1.2
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  }
+ ],
+ "Basmati Reis (Express-Beutel, gegart)": [
+  {
+   "chain": "migros",
+   "product_id": "mock-migros-025",
+   "name": "M-Classic Basmati Reis",
+   "brand": null,
+   "size_value": 1.0,
+   "size_unit": "kg",
+   "price_chf": 3.2,
+   "regular_price_chf": null,
+   "unit_price_chf": 3.2,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 350.0,
+    "carbs_g": 78.0,
+    "protein_g": 8.0,
+    "fat_g": 0.6
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "denner",
+   "product_id": "mock-denner-026",
+   "name": "Denner Basmati Reis",
+   "brand": null,
+   "size_value": 1.0,
+   "size_unit": "kg",
+   "price_chf": 2.75,
+   "regular_price_chf": null,
+   "unit_price_chf": 2.75,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 350.0,
+    "carbs_g": 78.0,
+    "protein_g": 8.0,
+    "fat_g": 0.6
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "coop",
+   "product_id": "mock-coop-027",
+   "name": "Coop Basmati Reis",
+   "brand": null,
+   "size_value": 1.0,
+   "size_unit": "kg",
+   "price_chf": 3.35,
+   "regular_price_chf": null,
+   "unit_price_chf": 3.35,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 350.0,
+    "carbs_g": 78.0,
+    "protein_g": 8.0,
+    "fat_g": 0.6
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  }
+ ],
+ "Peperoni": [
+  {
+   "chain": "migros",
+   "product_id": "mock-migros-045",
+   "name": "Migros Peperoni rot",
+   "brand": null,
+   "size_value": 500.0,
+   "size_unit": "g",
+   "price_chf": 2.95,
+   "regular_price_chf": null,
+   "unit_price_chf": 5.9,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 30.0,
+    "carbs_g": 5.0,
+    "protein_g": 1.0,
+    "fat_g": 0.3
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "denner",
+   "product_id": "mock-denner-046",
+   "name": "Denner Peperoni Mix 3er",
+   "brand": null,
+   "size_value": 500.0,
+   "size_unit": "g",
+   "price_chf": 2.85,
+   "regular_price_chf": null,
+   "unit_price_chf": 5.7,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 30.0,
+    "carbs_g": 5.0,
+    "protein_g": 1.0,
+    "fat_g": 0.3
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  }
+ ],
+ "Zucchetti": [
+  {
+   "chain": "migros",
+   "product_id": "mock-migros-043",
+   "name": "Migros Zucchetti",
+   "brand": null,
+   "size_value": 500.0,
+   "size_unit": "g",
+   "price_chf": 1.9,
+   "regular_price_chf": null,
+   "unit_price_chf": 3.8,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 20.0,
+    "carbs_g": 2.0,
+    "protein_g": 1.5,
+    "fat_g": 0.3
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "coop",
+   "product_id": "mock-coop-044",
+   "name": "Coop Zucchetti",
+   "brand": null,
+   "size_value": 500.0,
+   "size_unit": "g",
+   "price_chf": 2.1,
+   "regular_price_chf": null,
+   "unit_price_chf": 4.2,
+   "unit_price_per": "kg",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 20.0,
+    "carbs_g": 2.0,
+    "protein_g": 1.5,
+    "fat_g": 0.3
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  }
+ ],
+ "Ei": [
+  {
+   "chain": "migros",
+   "product_id": "mock-migros-008",
+   "name": "M-Classic Schweizer Eier Bodenhaltung 10er",
+   "brand": null,
+   "size_value": 10.0,
+   "size_unit": "Stk",
+   "price_chf": 3.9,
+   "regular_price_chf": null,
+   "unit_price_chf": 0.39,
+   "unit_price_per": "Stk",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 155.0,
+    "carbs_g": 1.1,
+    "protein_g": 13.0,
+    "fat_g": 11.0
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "denner",
+   "product_id": "mock-denner-009",
+   "name": "Denner Eier Bodenhaltung CH 10er",
+   "brand": null,
+   "size_value": 10.0,
+   "size_unit": "Stk",
+   "price_chf": 3.65,
+   "regular_price_chf": null,
+   "unit_price_chf": 0.36,
+   "unit_price_per": "Stk",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 155.0,
+    "carbs_g": 1.1,
+    "protein_g": 13.0,
+    "fat_g": 11.0
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "coop",
+   "product_id": "mock-coop-010",
+   "name": "Coop Schweizer Eier Bodenhaltung 6er",
+   "brand": null,
+   "size_value": 6.0,
+   "size_unit": "Stk",
+   "price_chf": 2.6,
+   "regular_price_chf": null,
+   "unit_price_chf": 0.43,
+   "unit_price_per": "Stk",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 155.0,
+    "carbs_g": 1.1,
+    "protein_g": 13.0,
+    "fat_g": 11.0
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  }
+ ],
+ "Sojasauce": [
+  {
+   "chain": "migros",
+   "product_id": "mock-migros-073",
+   "name": "Kikkoman Sojasauce",
+   "brand": null,
+   "size_value": 250.0,
+   "size_unit": "ml",
+   "price_chf": 3.9,
+   "regular_price_chf": null,
+   "unit_price_chf": 15.6,
+   "unit_price_per": "l",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 60.0,
+    "carbs_g": 6.0,
+    "protein_g": 8.0,
+    "fat_g": 0.0
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  },
+  {
+   "chain": "coop",
+   "product_id": "mock-coop-074",
+   "name": "Coop Sojasauce",
+   "brand": null,
+   "size_value": 250.0,
+   "size_unit": "ml",
+   "price_chf": 2.95,
+   "regular_price_chf": null,
+   "unit_price_chf": 11.8,
+   "unit_price_per": "l",
+   "promotion": false,
+   "promotion_until": null,
+   "promotion_text": null,
+   "nutrition": {
+    "kcal": 60.0,
+    "carbs_g": 6.0,
+    "protein_g": 8.0,
+    "fat_g": 0.0
+   },
+   "estimated": false,
+   "note": null,
+   "price_date": "2026-11-06"
+  }
+ ],
+ "Rapsöl": []
+}

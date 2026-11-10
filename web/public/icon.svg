@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- FuelPlan CH – App-Icon (Entwurf nach app-icons.md: Hintergrund als Verlauf, zwei gefüllte, überlappende Formen,
+       zentriert, ohne Text, klare Kanten; keine eigenen Schatten oder Glanzlichter – die Plattform legt ihre Effekte darüber).
+       Idee: der Teller (Abendessen) trägt die Flamme (Treibstoff aus dem Training). Farben aus tokens.css. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C9780F"/>
+      <stop offset="1" stop-color="#8F5000"/>
+    </linearGradient>
+  </defs>
+  <!-- Hintergrund, vollflächig und deckend; die Plattform maskiert die Ecken -->
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <!-- Teller: zwei Kreise, Rand und Spiegel -->
+  <circle cx="512" cy="536" r="352" fill="#F4F3EF"/>
+  <circle cx="512" cy="536" r="286" fill="#ECEAE4"/>
+  <!-- Flamme: Aussenform in Treibstoff-Amber, innere Zunge in Creme -->
+  <g transform="translate(512 536) scale(5.1) translate(-50 -50)">
+    <path fill="#A05C00" d="M50 10 C 59 25, 76 34, 76 57 C 76 74, 64 86, 50 86 C 36 86, 24 74, 24 57 C 24 46, 29 39, 35 32 C 35 43, 39 48, 44 48 C 39 37, 43 22, 50 10 Z"/>
+    <path fill="#F4F3EF" d="M50 44 C 55 52, 63 56, 63 67 C 63 75, 57 80, 50 80 C 43 80, 37 75, 37 67 C 37 61, 41 57, 44 52 C 45 58, 48 60, 50 58 C 48 54, 48 48, 50 44 Z"/>
+  </g>
+</svg>

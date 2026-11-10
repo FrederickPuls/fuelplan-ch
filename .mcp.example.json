@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "swissgroceries": {
+      "command": "npx",
+      "args": ["-y", "@nicktcode/swissgroceries-mcp"]
+    },
+    "intervals": {
+      "command": "./run-intervals-mcp.sh",
+      "args": []
+    }
+  }
+}

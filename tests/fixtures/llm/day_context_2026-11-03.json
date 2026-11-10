@@ -1,0 +1,57 @@
+{
+ "date": "2026-11-03",
+ "activities": [
+  {
+   "date": "2026-11-03",
+   "time": "18:30:00",
+   "type": "running",
+   "name": "Zürich Laufen",
+   "duration_min": 40.0,
+   "distance_km": 6.2,
+   "avg_hr": 148.0,
+   "max_hr": 168.0,
+   "kcal": 455.0,
+   "training_load": 62.0,
+   "aerobic_te": 3.0,
+   "anaerobic_te": 0.0,
+   "te_label": "AEROBIC_BASE",
+   "source": "garmin_csv"
+  }
+ ],
+ "daily": {
+  "date": "2026-11-03",
+  "total_kcal": 2800.0,
+  "active_kcal": 1000.0,
+  "bmr_kcal": 1800.0,
+  "steps": 12000,
+  "resting_hr": 52,
+  "avg_stress": 30
+ },
+ "week_load_avg_7d": 70.0,
+ "classification": {
+  "day_type": "Easy Run",
+  "components": [
+   "Easy Run"
+  ],
+  "reason": "Easy Run, weil der Lauf 6,2 km lang ist (4 bis unter 9 km).",
+  "surf": false
+ },
+ "needs": {
+  "kcal": 2800,
+  "carbs_g": 315,
+  "protein_g": 133,
+  "fat_g": 112,
+  "kcal_range": [
+   2700,
+   2900
+  ],
+  "carbs_g_range": [
+   280,
+   350
+  ],
+  "protein_g_range": [
+   126,
+   140
+  ]
+ }
+}

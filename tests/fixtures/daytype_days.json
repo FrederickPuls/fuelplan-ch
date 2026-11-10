@@ -1,0 +1,398 @@
+{
+ "note": "Ground Truth für test_daytype.py. Erfundene Beispieltage: je ein Tag pro Regelfall der Tag-Typ-Logik (Intervall nach Name und TE-Label, Distanzgrenzen, Kombinationen, Surf-Regel, Ruhetag, hoher Ø-Puls, Wandern).",
+ "days": [
+  {
+   "date": "2026-03-03",
+   "why": "Name „Zürich - Intervalle 4 x 2 km“ → Intervall-Lauf; Name schlägt Distanz (9,5 km wäre Long Run light) und TE-Label LACTATE_THRESHOLD",
+   "expected": {
+    "day_type": "Intensiv",
+    "components": [
+     "Intensiv"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-03",
+     "time": "17:30",
+     "type": "running",
+     "name": "Zürich - Intervalle 4 x 2 km",
+     "duration_min": 53.0,
+     "distance_km": 9.5,
+     "avg_hr": 162.0,
+     "max_hr": 181.0,
+     "kcal": 660.0,
+     "training_load": 170.0,
+     "te_label": "LACTATE_THRESHOLD",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-06",
+   "why": "„Zürich - Intervalle 6 x 1 km“, zusätzlich TE-Label VO2MAX",
+   "expected": {
+    "day_type": "Intensiv",
+    "components": [
+     "Intensiv"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-06",
+     "time": "17:00",
+     "type": "running",
+     "name": "Zürich - Intervalle 6 x 1 km",
+     "duration_min": 44.0,
+     "distance_km": 8.2,
+     "avg_hr": 157.0,
+     "max_hr": 182.0,
+     "kcal": 570.0,
+     "training_load": 155.0,
+     "te_label": "VO2MAX",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-08",
+   "why": "16,2 km Lauf (ab 14 km)",
+   "expected": {
+    "day_type": "Long Run",
+    "components": [
+     "Long Run"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-08",
+     "time": "09:30",
+     "type": "running",
+     "name": "Zürich Laufen",
+     "duration_min": 92.0,
+     "distance_km": 16.2,
+     "avg_hr": 154.0,
+     "max_hr": 170.0,
+     "kcal": 1120.0,
+     "training_load": 190.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-10",
+   "why": "10,4 km Lauf (9 bis unter 14 km)",
+   "expected": {
+    "day_type": "Long Run light",
+    "components": [
+     "Long Run light"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-10",
+     "time": "18:45",
+     "type": "running",
+     "name": "Laufen",
+     "duration_min": 56.0,
+     "distance_km": 10.4,
+     "avg_hr": 156.0,
+     "max_hr": 178.0,
+     "kcal": 610.0,
+     "training_load": 112.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-15",
+   "why": "12,4 km Lauf",
+   "expected": {
+    "day_type": "Long Run light",
+    "components": [
+     "Long Run light"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-15",
+     "time": "10:15",
+     "type": "running",
+     "name": "Zürich Laufen",
+     "duration_min": 75.0,
+     "distance_km": 12.4,
+     "avg_hr": 158.0,
+     "max_hr": 176.0,
+     "kcal": 880.0,
+     "training_load": 110.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-17",
+   "why": "6,1 km Lauf (4 bis unter 9 km), Ø-Puls 145",
+   "expected": {
+    "day_type": "Easy Run",
+    "components": [
+     "Easy Run"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-17",
+     "time": "18:30",
+     "type": "running",
+     "name": "Zürich Laufen",
+     "duration_min": 38.0,
+     "distance_km": 6.1,
+     "avg_hr": 145.0,
+     "max_hr": 163.0,
+     "kcal": 440.0,
+     "training_load": 58.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-19",
+   "why": "5,2 km Lauf + 80 min Kraft → Kombination: KH von Easy Run, Protein von Kraft, Kalorien addiert",
+   "expected": {
+    "day_type": "Easy Run",
+    "components": [
+     "Easy Run",
+     "Kraft"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-19",
+     "time": "08:30",
+     "type": "running",
+     "name": "Zürich Laufen",
+     "duration_min": 33.0,
+     "distance_km": 5.2,
+     "avg_hr": 142.0,
+     "max_hr": 160.0,
+     "kcal": 360.0,
+     "training_load": 57.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    },
+    {
+     "date": "2026-03-19",
+     "time": "10:15",
+     "type": "strength_training",
+     "name": "Krafttraining",
+     "duration_min": 80.0,
+     "distance_km": 0.0,
+     "avg_hr": 115.0,
+     "max_hr": 142.0,
+     "kcal": 410.0,
+     "training_load": 13.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-06",
+   "why": "eine Surf-Session (15 min) allein → Locker-Komponente, obwohl unter 20 min; Protein am oberen Rand",
+   "expected": {
+    "day_type": "Locker",
+    "components": [
+     "Locker"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-06-06",
+     "time": "16:00",
+     "type": "other",
+     "name": "Wakesurfen",
+     "duration_min": 15.0,
+     "distance_km": 2.5,
+     "avg_hr": 100.0,
+     "max_hr": 112.0,
+     "kcal": 70.0,
+     "training_load": 3.0,
+     "te_label": "UNKNOWN",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-09",
+   "why": "2 Surf-Sessions (22 min) + 82 min Kraft → Kraft + Locker (Surf): Kombination, Protein von Kraft am oberen Rand",
+   "expected": {
+    "day_type": "Kraft",
+    "components": [
+     "Kraft",
+     "Locker"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-06-09",
+     "time": "13:00",
+     "type": "other",
+     "name": "Wakesurfen",
+     "duration_min": 14.0,
+     "distance_km": 3.0,
+     "avg_hr": 90.0,
+     "max_hr": 99.0,
+     "kcal": 45.0,
+     "training_load": 1.5,
+     "te_label": "UNKNOWN",
+     "source": "garmin_csv"
+    },
+    {
+     "date": "2026-06-09",
+     "time": "13:30",
+     "type": "other",
+     "name": "Wakesurfen",
+     "duration_min": 8.0,
+     "distance_km": 3.2,
+     "avg_hr": 95.0,
+     "max_hr": 104.0,
+     "kcal": 30.0,
+     "training_load": 1.5,
+     "te_label": "UNKNOWN",
+     "source": "garmin_csv"
+    },
+    {
+     "date": "2026-06-09",
+     "time": "17:00",
+     "type": "strength_training",
+     "name": "Krafttraining",
+     "duration_min": 82.0,
+     "distance_km": 0.0,
+     "avg_hr": 122.0,
+     "max_hr": 160.0,
+     "kcal": 480.0,
+     "training_load": 26.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-23",
+   "why": "kein Training",
+   "expected": {
+    "day_type": "Ruhetag",
+    "components": [
+     "Ruhetag"
+    ]
+   },
+   "activities": []
+  },
+  {
+   "date": "2026-03-24",
+   "why": "nur 17 min Kraft → unter 20 min → Ruhetag",
+   "expected": {
+    "day_type": "Ruhetag",
+    "components": [
+     "Ruhetag"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-24",
+     "time": "15:30",
+     "type": "strength_training",
+     "name": "Krafttraining",
+     "duration_min": 17.0,
+     "distance_km": 0.0,
+     "avg_hr": 140.0,
+     "max_hr": 172.0,
+     "kcal": 170.0,
+     "training_load": 40.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-26",
+   "why": "Kraft mit TE-Label ANAEROBIC_CAPACITY → trotzdem Kraft, das Intervall-Label gilt nur für Läufe",
+   "expected": {
+    "day_type": "Kraft",
+    "components": [
+     "Kraft"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-26",
+     "time": "19:30",
+     "type": "strength_training",
+     "name": "Krafttraining",
+     "duration_min": 55.0,
+     "distance_km": 0.0,
+     "avg_hr": 135.0,
+     "max_hr": 170.0,
+     "kcal": 390.0,
+     "training_load": 50.0,
+     "te_label": "ANAEROBIC_CAPACITY",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-28",
+   "why": "5,0 km Lauf mit Ø-Puls 170 (TE LACTATE_THRESHOLD) → „hoher Ø-Puls“ → Intensiv statt Easy Run (Schwelle 165 in rules.py)",
+   "expected": {
+    "day_type": "Intensiv",
+    "components": [
+     "Intensiv"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-03-28",
+     "time": "14:00",
+     "type": "running",
+     "name": "Laufen",
+     "duration_min": 26.0,
+     "distance_km": 5.0,
+     "avg_hr": 170.0,
+     "max_hr": 188.0,
+     "kcal": 340.0,
+     "training_load": 125.0,
+     "te_label": "LACTATE_THRESHOLD",
+     "source": "garmin_csv"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-16",
+   "why": "120 min Wandern → wie Locker (nicht in der Tabelle)",
+   "expected": {
+    "day_type": "Locker",
+    "components": [
+     "Locker"
+    ]
+   },
+   "activities": [
+    {
+     "date": "2026-05-16",
+     "time": "11:00",
+     "type": "hiking",
+     "name": "Wandern",
+     "duration_min": 120.0,
+     "distance_km": 6.5,
+     "avg_hr": 118.0,
+     "max_hr": 150.0,
+     "kcal": 600.0,
+     "training_load": 45.0,
+     "te_label": "AEROBIC_BASE",
+     "source": "garmin_csv"
+    }
+   ]
+  }
+ ]
+}

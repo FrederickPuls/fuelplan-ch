@@ -1,0 +1,60 @@
+{
+ "choices": [
+  {
+   "variant": "schnell",
+   "ingredient": "Pouletbrust",
+   "chain": "denner",
+   "product_id": "mock-denner-001",
+   "packs": 1,
+   "reason": "Günstigster Grundpreis (22.25 CHF/kg), 400 g decken die benötigten 200 g."
+  },
+  {
+   "variant": "schnell",
+   "ingredient": "Basmati Reis (Express-Beutel, gegart)",
+   "chain": "denner",
+   "product_id": "mock-denner-026",
+   "packs": 1,
+   "reason": "Günstigster Grundpreis (2.75 CHF/kg); es ist nur trockener Basmati gelistet, aber ein passender Ersatz."
+  },
+  {
+   "variant": "schnell",
+   "ingredient": "Peperoni",
+   "chain": "denner",
+   "product_id": "mock-denner-046",
+   "packs": 1,
+   "reason": "Günstigster Grundpreis (5.70 CHF/kg), 500 g decken 150 g."
+  },
+  {
+   "variant": "schnell",
+   "ingredient": "Zucchetti",
+   "chain": "migros",
+   "product_id": "mock-migros-043",
+   "packs": 1,
+   "reason": "Günstigster Grundpreis (3.80 CHF/kg), 500 g decken 150 g."
+  },
+  {
+   "variant": "schnell",
+   "ingredient": "Ei",
+   "chain": "denner",
+   "product_id": "mock-denner-009",
+   "packs": 1,
+   "reason": "Günstigster Preis pro Stück (0.36 CHF), 1 Ei entspricht ca. 60 g."
+  },
+  {
+   "variant": "schnell",
+   "ingredient": "Sojasauce",
+   "chain": "coop",
+   "product_id": "mock-coop-074",
+   "packs": 1,
+   "reason": "Günstigerer Grundpreis (11.80 CHF/l) als Kikkoman."
+  },
+  {
+   "variant": "schnell",
+   "ingredient": "Rapsöl",
+   "chain": null,
+   "product_id": null,
+   "packs": null,
+   "reason": "Keine Treffer in allen Läden."
+  }
+ ]
+}

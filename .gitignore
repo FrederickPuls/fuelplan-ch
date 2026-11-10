@@ -1,0 +1,37 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+.DS_Store
+
+# lokale Laufzeit
+.mcp.local.json
+.claude/settings.local.json
+
+# persönliche Gesundheitsdaten
+data/
+
+# Phase 1: Läufe, Rezept-Archiv, Python-Artefakte
+runs/
+history/
+__pycache__/
+.pytest_cache/
+
+# Preis-Cache (lokal, mit Datum)
+cache/
+
+# Phase 2: Frontend-Build (web/ entsteht ab Schritt 4)
+web/node_modules/
+web/dist/
+web/test-results/
+web/playwright-report/
+web/tsconfig.tsbuildinfo
+
+# Persönliche Dateien: nur lokal anlegen, nie committen (Vorlagen: profile.example.md, .mcp.example.json, stores.example.json)
+profile.md
+notes.md
+CLAUDE.md
+.mcp.json
+.claude/
+fuelplan/grocery/stores.json

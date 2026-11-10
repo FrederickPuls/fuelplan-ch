@@ -1,0 +1,1927 @@
+{
+ "price_date": "2026-11-06",
+ "note": "Fixture-Produkte, Preise grob an CH-Niveau 2025/26 angelehnt, Nährwerte gerundet",
+ "products": [
+  {
+   "keywords": [
+    "pouletbrust",
+    "poulet",
+    "hähnchen",
+    "chicken"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-000",
+   "name": "M-Classic Pouletbrust",
+   "size_value": 300,
+   "size_unit": "g",
+   "price_chf": 7.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 26.5,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 105,
+    "carbs_g": 0,
+    "protein_g": 23,
+    "fat_g": 1.2
+   }
+  },
+  {
+   "keywords": [
+    "pouletbrust",
+    "poulet",
+    "hähnchen",
+    "chicken"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-001",
+   "name": "Denner Pouletbrustfilet",
+   "size_value": 400,
+   "size_unit": "g",
+   "price_chf": 8.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 22.25,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 105,
+    "carbs_g": 0,
+    "protein_g": 23,
+    "fat_g": 1.2
+   }
+  },
+  {
+   "keywords": [
+    "pouletbrust",
+    "poulet",
+    "hähnchen",
+    "chicken"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-002",
+   "name": "Coop Pouletbrust Schnitzel",
+   "size_value": 250,
+   "size_unit": "g",
+   "price_chf": 6.5,
+   "regular_price_chf": 8.1,
+   "promotion": true,
+   "unit_price_chf": 26.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 105,
+    "carbs_g": 0,
+    "protein_g": 23,
+    "fat_g": 1.2
+   }
+  },
+  {
+   "keywords": [
+    "hackfleisch",
+    "rindshackfleisch",
+    "rind"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-003",
+   "name": "M-Classic Rindshackfleisch",
+   "size_value": 400,
+   "size_unit": "g",
+   "price_chf": 7.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 19.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 230,
+    "carbs_g": 0,
+    "protein_g": 19,
+    "fat_g": 17
+   }
+  },
+  {
+   "keywords": [
+    "hackfleisch",
+    "rindshackfleisch",
+    "rind"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-004",
+   "name": "Denner Rindshackfleisch",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 8.45,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 16.9,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 230,
+    "carbs_g": 0,
+    "protein_g": 19,
+    "fat_g": 17
+   }
+  },
+  {
+   "keywords": [
+    "hackfleisch",
+    "rindshackfleisch",
+    "rind"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-005",
+   "name": "Coop Rinds-Hackfleisch",
+   "size_value": 400,
+   "size_unit": "g",
+   "price_chf": 7.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 19.75,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 230,
+    "carbs_g": 0,
+    "protein_g": 19,
+    "fat_g": 17
+   }
+  },
+  {
+   "keywords": [
+    "lachs",
+    "lachsfilet"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-006",
+   "name": "M-Classic Lachsfilet",
+   "size_value": 250,
+   "size_unit": "g",
+   "price_chf": 8.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 35.6,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 200,
+    "carbs_g": 0,
+    "protein_g": 20,
+    "fat_g": 13
+   }
+  },
+  {
+   "keywords": [
+    "lachs",
+    "lachsfilet"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-007",
+   "name": "Coop Lachsfilet ohne Haut",
+   "size_value": 300,
+   "size_unit": "g",
+   "price_chf": 10.95,
+   "regular_price_chf": 12.95,
+   "promotion": true,
+   "unit_price_chf": 36.5,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 200,
+    "carbs_g": 0,
+    "protein_g": 20,
+    "fat_g": 13
+   }
+  },
+  {
+   "keywords": [
+    "eier",
+    "ei"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-008",
+   "name": "M-Classic Schweizer Eier Bodenhaltung 10er",
+   "size_value": 10,
+   "size_unit": "Stk",
+   "price_chf": 3.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 0.39,
+   "unit_price_per": "Stk",
+   "nutrition": {
+    "kcal": 155,
+    "carbs_g": 1.1,
+    "protein_g": 13,
+    "fat_g": 11
+   }
+  },
+  {
+   "keywords": [
+    "eier",
+    "ei"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-009",
+   "name": "Denner Eier Bodenhaltung CH 10er",
+   "size_value": 10,
+   "size_unit": "Stk",
+   "price_chf": 3.65,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 0.36,
+   "unit_price_per": "Stk",
+   "nutrition": {
+    "kcal": 155,
+    "carbs_g": 1.1,
+    "protein_g": 13,
+    "fat_g": 11
+   }
+  },
+  {
+   "keywords": [
+    "eier",
+    "ei"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-010",
+   "name": "Coop Schweizer Eier Bodenhaltung 6er",
+   "size_value": 6,
+   "size_unit": "Stk",
+   "price_chf": 2.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 0.43,
+   "unit_price_per": "Stk",
+   "nutrition": {
+    "kcal": 155,
+    "carbs_g": 1.1,
+    "protein_g": 13,
+    "fat_g": 11
+   }
+  },
+  {
+   "keywords": [
+    "magerquark",
+    "quark"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-011",
+   "name": "M-Classic Magerquark",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 1.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 67,
+    "carbs_g": 4,
+    "protein_g": 12,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "magerquark",
+    "quark"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-012",
+   "name": "Coop Magerquark",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 1.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 67,
+    "carbs_g": 4,
+    "protein_g": 12,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "skyr"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-013",
+   "name": "M-Classic Skyr nature",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.4,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.8,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 63,
+    "carbs_g": 4,
+    "protein_g": 11,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "skyr"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-014",
+   "name": "Denner Skyr Natur",
+   "size_value": 450,
+   "size_unit": "g",
+   "price_chf": 2.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.89,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 63,
+    "carbs_g": 4,
+    "protein_g": 11,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "hüttenkäse",
+    "cottage"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-015",
+   "name": "M-Classic Hüttenkäse",
+   "size_value": 200,
+   "size_unit": "g",
+   "price_chf": 1.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 8.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 98,
+    "carbs_g": 2,
+    "protein_g": 12,
+    "fat_g": 4.3
+   }
+  },
+  {
+   "keywords": [
+    "hüttenkäse",
+    "cottage"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-016",
+   "name": "Coop Hüttenkäse nature",
+   "size_value": 200,
+   "size_unit": "g",
+   "price_chf": 1.75,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 8.75,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 98,
+    "carbs_g": 2,
+    "protein_g": 12,
+    "fat_g": 4.3
+   }
+  },
+  {
+   "keywords": [
+    "mozzarella"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-017",
+   "name": "M-Classic Mozzarella",
+   "size_value": 150,
+   "size_unit": "g",
+   "price_chf": 1.25,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 8.33,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 250,
+    "carbs_g": 1,
+    "protein_g": 18,
+    "fat_g": 19
+   }
+  },
+  {
+   "keywords": [
+    "mozzarella"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-018",
+   "name": "Denner Mozzarella",
+   "size_value": 150,
+   "size_unit": "g",
+   "price_chf": 1.1,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 7.33,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 250,
+    "carbs_g": 1,
+    "protein_g": 18,
+    "fat_g": 19
+   }
+  },
+  {
+   "keywords": [
+    "parmesan",
+    "parmigiano"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-019",
+   "name": "Coop Parmigiano Reggiano gerieben",
+   "size_value": 100,
+   "size_unit": "g",
+   "price_chf": 2.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 29.5,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 390,
+    "carbs_g": 0,
+    "protein_g": 33,
+    "fat_g": 28
+   }
+  },
+  {
+   "keywords": [
+    "parmesan",
+    "parmigiano"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-020",
+   "name": "M-Classic Parmesan gerieben",
+   "size_value": 120,
+   "size_unit": "g",
+   "price_chf": 3.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 26.67,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 390,
+    "carbs_g": 0,
+    "protein_g": 33,
+    "fat_g": 28
+   }
+  },
+  {
+   "keywords": [
+    "feta"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-021",
+   "name": "Coop Feta",
+   "size_value": 200,
+   "size_unit": "g",
+   "price_chf": 2.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 14.75,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 265,
+    "carbs_g": 1,
+    "protein_g": 15,
+    "fat_g": 22
+   }
+  },
+  {
+   "keywords": [
+    "feta"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-022",
+   "name": "M-Classic Feta",
+   "size_value": 200,
+   "size_unit": "g",
+   "price_chf": 2.7,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 13.5,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 265,
+    "carbs_g": 1,
+    "protein_g": 15,
+    "fat_g": 22
+   }
+  },
+  {
+   "keywords": [
+    "tofu"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-023",
+   "name": "Cornatur Tofu nature",
+   "size_value": 250,
+   "size_unit": "g",
+   "price_chf": 2.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 10.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 120,
+    "carbs_g": 1,
+    "protein_g": 13,
+    "fat_g": 7
+   }
+  },
+  {
+   "keywords": [
+    "tofu"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-024",
+   "name": "Karma Tofu nature",
+   "size_value": 300,
+   "size_unit": "g",
+   "price_chf": 2.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 9.83,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 120,
+    "carbs_g": 1,
+    "protein_g": 13,
+    "fat_g": 7
+   }
+  },
+  {
+   "keywords": [
+    "basmati",
+    "reis",
+    "basmatireis"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-025",
+   "name": "M-Classic Basmati Reis",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 3.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 350,
+    "carbs_g": 78,
+    "protein_g": 8,
+    "fat_g": 0.6
+   }
+  },
+  {
+   "keywords": [
+    "basmati",
+    "reis",
+    "basmatireis"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-026",
+   "name": "Denner Basmati Reis",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 2.75,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.75,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 350,
+    "carbs_g": 78,
+    "protein_g": 8,
+    "fat_g": 0.6
+   }
+  },
+  {
+   "keywords": [
+    "basmati",
+    "reis",
+    "basmatireis"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-027",
+   "name": "Coop Basmati Reis",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 3.35,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.35,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 350,
+    "carbs_g": 78,
+    "protein_g": 8,
+    "fat_g": 0.6
+   }
+  },
+  {
+   "keywords": [
+    "spaghetti",
+    "pasta",
+    "teigwaren"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-028",
+   "name": "M-Classic Spaghetti",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 1.1,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 360,
+    "carbs_g": 72,
+    "protein_g": 12,
+    "fat_g": 1.5
+   }
+  },
+  {
+   "keywords": [
+    "spaghetti",
+    "pasta",
+    "teigwaren"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-029",
+   "name": "Denner Spaghetti",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 0.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.9,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 360,
+    "carbs_g": 72,
+    "protein_g": 12,
+    "fat_g": 1.5
+   }
+  },
+  {
+   "keywords": [
+    "penne",
+    "pasta",
+    "teigwaren"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-030",
+   "name": "Coop Penne Rigate",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 1.25,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.5,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 360,
+    "carbs_g": 72,
+    "protein_g": 12,
+    "fat_g": 1.5
+   }
+  },
+  {
+   "keywords": [
+    "haferflocken",
+    "hafer"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-031",
+   "name": "M-Classic Haferflocken fein",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 2.3,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.3,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 370,
+    "carbs_g": 60,
+    "protein_g": 13,
+    "fat_g": 7
+   }
+  },
+  {
+   "keywords": [
+    "haferflocken",
+    "hafer"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-032",
+   "name": "Coop Haferflocken",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 2.4,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.4,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 370,
+    "carbs_g": 60,
+    "protein_g": 13,
+    "fat_g": 7
+   }
+  },
+  {
+   "keywords": [
+    "kartoffeln",
+    "kartoffel"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-033",
+   "name": "Migros Kartoffeln festkochend",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 2.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.6,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 77,
+    "carbs_g": 17,
+    "protein_g": 2,
+    "fat_g": 0.1
+   }
+  },
+  {
+   "keywords": [
+    "kartoffeln",
+    "kartoffel"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-034",
+   "name": "Denner Kartoffeln festkochend",
+   "size_value": 1.5,
+   "size_unit": "kg",
+   "price_chf": 3.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.13,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 77,
+    "carbs_g": 17,
+    "protein_g": 2,
+    "fat_g": 0.1
+   }
+  },
+  {
+   "keywords": [
+    "süsskartoffel",
+    "süsskartoffeln"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-035",
+   "name": "Coop Süsskartoffeln",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 3.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.95,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 86,
+    "carbs_g": 20,
+    "protein_g": 1.6,
+    "fat_g": 0.1
+   }
+  },
+  {
+   "keywords": [
+    "süsskartoffel",
+    "süsskartoffeln"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-036",
+   "name": "Migros Süsskartoffeln",
+   "size_value": 750,
+   "size_unit": "g",
+   "price_chf": 3.4,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.53,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 86,
+    "carbs_g": 20,
+    "protein_g": 1.6,
+    "fat_g": 0.1
+   }
+  },
+  {
+   "keywords": [
+    "wraps",
+    "tortilla"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-037",
+   "name": "M-Classic Tortilla Wraps 6er",
+   "size_value": 370,
+   "size_unit": "g",
+   "price_chf": 2.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 7.03,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 310,
+    "carbs_g": 50,
+    "protein_g": 8,
+    "fat_g": 8
+   }
+  },
+  {
+   "keywords": [
+    "wraps",
+    "tortilla"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-038",
+   "name": "Coop Tortilla Wraps 8er",
+   "size_value": 320,
+   "size_unit": "g",
+   "price_chf": 2.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 7.81,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 310,
+    "carbs_g": 50,
+    "protein_g": 8,
+    "fat_g": 8
+   }
+  },
+  {
+   "keywords": [
+    "broccoli",
+    "brokkoli"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-039",
+   "name": "Migros Broccoli",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 4.8,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.8,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 34,
+    "carbs_g": 3,
+    "protein_g": 3,
+    "fat_g": 0.4
+   }
+  },
+  {
+   "keywords": [
+    "broccoli",
+    "brokkoli"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-040",
+   "name": "Broccoli ca. 500g",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.1,
+   "regular_price_chf": 2.85,
+   "promotion": true,
+   "unit_price_chf": 4.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 34,
+    "carbs_g": 3,
+    "protein_g": 3,
+    "fat_g": 0.4
+   }
+  },
+  {
+   "keywords": [
+    "spinat",
+    "blattspinat"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-041",
+   "name": "M-Classic Blattspinat tiefgekühlt",
+   "size_value": 600,
+   "size_unit": "g",
+   "price_chf": 2.4,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 23,
+    "carbs_g": 1,
+    "protein_g": 3,
+    "fat_g": 0.4
+   }
+  },
+  {
+   "keywords": [
+    "spinat",
+    "blattspinat"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-042",
+   "name": "Denner Spinat gehackt tiefgekühlt",
+   "size_value": 750,
+   "size_unit": "g",
+   "price_chf": 2.3,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.07,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 23,
+    "carbs_g": 1,
+    "protein_g": 3,
+    "fat_g": 0.4
+   }
+  },
+  {
+   "keywords": [
+    "zucchetti",
+    "zucchini"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-043",
+   "name": "Migros Zucchetti",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 1.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.8,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 20,
+    "carbs_g": 2,
+    "protein_g": 1.5,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "zucchetti",
+    "zucchini"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-044",
+   "name": "Coop Zucchetti",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.1,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 20,
+    "carbs_g": 2,
+    "protein_g": 1.5,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "peperoni",
+    "paprika"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-045",
+   "name": "Migros Peperoni rot",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 5.9,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 30,
+    "carbs_g": 5,
+    "protein_g": 1,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "peperoni",
+    "paprika"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-046",
+   "name": "Denner Peperoni Mix 3er",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.85,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 5.7,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 30,
+    "carbs_g": 5,
+    "protein_g": 1,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "tomaten",
+    "tomate"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-047",
+   "name": "Migros Tomaten",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 5.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 18,
+    "carbs_g": 3,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "tomaten",
+    "tomate"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-048",
+   "name": "Coop Tomaten",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 5.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 18,
+    "carbs_g": 3,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "cherrytomaten",
+    "cherry",
+    "datteltomaten"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-049",
+   "name": "Denner Cherrytomaten",
+   "size_value": 250,
+   "size_unit": "g",
+   "price_chf": 1.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 7.8,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 20,
+    "carbs_g": 4,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "cherrytomaten",
+    "cherry",
+    "datteltomaten"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-050",
+   "name": "Migros Cherrytomaten",
+   "size_value": 250,
+   "size_unit": "g",
+   "price_chf": 2.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 8.8,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 20,
+    "carbs_g": 4,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "zwiebeln",
+    "zwiebel"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-051",
+   "name": "Migros Zwiebeln",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 1.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.9,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 40,
+    "carbs_g": 8,
+    "protein_g": 1,
+    "fat_g": 0.1
+   }
+  },
+  {
+   "keywords": [
+    "zwiebeln",
+    "zwiebel"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-052",
+   "name": "Denner Zwiebeln",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 1.75,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.75,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 40,
+    "carbs_g": 8,
+    "protein_g": 1,
+    "fat_g": 0.1
+   }
+  },
+  {
+   "keywords": [
+    "knoblauch"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-053",
+   "name": "Migros Knoblauch 3 Knollen",
+   "size_value": 150,
+   "size_unit": "g",
+   "price_chf": 1.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 10.67,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 140,
+    "carbs_g": 30,
+    "protein_g": 6,
+    "fat_g": 0.5
+   }
+  },
+  {
+   "keywords": [
+    "knoblauch"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-054",
+   "name": "Coop Knoblauch",
+   "size_value": 150,
+   "size_unit": "g",
+   "price_chf": 1.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 10.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 140,
+    "carbs_g": 30,
+    "protein_g": 6,
+    "fat_g": 0.5
+   }
+  },
+  {
+   "keywords": [
+    "rüebli",
+    "karotten",
+    "karotte",
+    "möhren"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-055",
+   "name": "Migros Rüebli",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 1.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.95,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 36,
+    "carbs_g": 7,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "rüebli",
+    "karotten",
+    "karotte",
+    "möhren"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-056",
+   "name": "Denner Rüebli",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 1.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.6,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 36,
+    "carbs_g": 7,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "champignons",
+    "pilze"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-057",
+   "name": "Migros Champignons weiss",
+   "size_value": 250,
+   "size_unit": "g",
+   "price_chf": 2.1,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 8.4,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 22,
+    "carbs_g": 0.5,
+    "protein_g": 3,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "champignons",
+    "pilze"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-058",
+   "name": "Coop Champignons",
+   "size_value": 250,
+   "size_unit": "g",
+   "price_chf": 2.3,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 9.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 22,
+    "carbs_g": 0.5,
+    "protein_g": 3,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "avocado"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-059",
+   "name": "Migros Avocado 2er",
+   "size_value": 2,
+   "size_unit": "Stk",
+   "price_chf": 2.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.45,
+   "unit_price_per": "Stk",
+   "nutrition": {
+    "kcal": 160,
+    "carbs_g": 2,
+    "protein_g": 2,
+    "fat_g": 15
+   }
+  },
+  {
+   "keywords": [
+    "avocado"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-060",
+   "name": "Denner Avocado",
+   "size_value": 1,
+   "size_unit": "Stk",
+   "price_chf": 1.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.2,
+   "unit_price_per": "Stk",
+   "nutrition": {
+    "kcal": 160,
+    "carbs_g": 2,
+    "protein_g": 2,
+    "fat_g": 15
+   }
+  },
+  {
+   "keywords": [
+    "zitrone",
+    "zitronen"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-061",
+   "name": "Coop Zitronen",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.4,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 35,
+    "carbs_g": 3,
+    "protein_g": 1,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "zitrone",
+    "zitronen"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-062",
+   "name": "Migros Zitronen 4er",
+   "size_value": 4,
+   "size_unit": "Stk",
+   "price_chf": 1.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 0.47,
+   "unit_price_per": "Stk",
+   "nutrition": {
+    "kcal": 35,
+    "carbs_g": 3,
+    "protein_g": 1,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "olivenöl",
+    "öl"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-063",
+   "name": "M-Classic Olivenöl extra vergine",
+   "size_value": 500,
+   "size_unit": "ml",
+   "price_chf": 5.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 11.0,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 900,
+    "carbs_g": 0,
+    "protein_g": 0,
+    "fat_g": 100
+   }
+  },
+  {
+   "keywords": [
+    "olivenöl",
+    "öl"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-064",
+   "name": "Denner Olivenöl extra vergine",
+   "size_value": 750,
+   "size_unit": "ml",
+   "price_chf": 6.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 9.27,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 900,
+    "carbs_g": 0,
+    "protein_g": 0,
+    "fat_g": 100
+   }
+  },
+  {
+   "keywords": [
+    "kokosmilch"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-065",
+   "name": "M-Classic Kokosmilch",
+   "size_value": 400,
+   "size_unit": "ml",
+   "price_chf": 1.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 3.75,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 180,
+    "carbs_g": 3,
+    "protein_g": 2,
+    "fat_g": 18
+   }
+  },
+  {
+   "keywords": [
+    "kokosmilch"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-066",
+   "name": "Coop Kokosmilch",
+   "size_value": 400,
+   "size_unit": "ml",
+   "price_chf": 1.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.0,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 180,
+    "carbs_g": 3,
+    "protein_g": 2,
+    "fat_g": 18
+   }
+  },
+  {
+   "keywords": [
+    "linsen",
+    "rote linsen"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-067",
+   "name": "M-Classic Rote Linsen",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.1,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.2,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 340,
+    "carbs_g": 50,
+    "protein_g": 24,
+    "fat_g": 2
+   }
+  },
+  {
+   "keywords": [
+    "linsen",
+    "rote linsen"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-068",
+   "name": "Coop Rote Linsen",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 4.4,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 340,
+    "carbs_g": 50,
+    "protein_g": 24,
+    "fat_g": 2
+   }
+  },
+  {
+   "keywords": [
+    "kichererbsen"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-069",
+   "name": "M-Classic Kichererbsen Dose",
+   "size_value": 400,
+   "size_unit": "g",
+   "price_chf": 1.1,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.75,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 120,
+    "carbs_g": 16,
+    "protein_g": 7,
+    "fat_g": 2
+   }
+  },
+  {
+   "keywords": [
+    "kichererbsen"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-070",
+   "name": "Denner Kichererbsen Dose",
+   "size_value": 400,
+   "size_unit": "g",
+   "price_chf": 0.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.37,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 120,
+    "carbs_g": 16,
+    "protein_g": 7,
+    "fat_g": 2
+   }
+  },
+  {
+   "keywords": [
+    "gehackte tomaten",
+    "pelati",
+    "tomaten dose",
+    "tomatenwürfel"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-071",
+   "name": "M-Classic Tomaten gehackt Dose",
+   "size_value": 400,
+   "size_unit": "g",
+   "price_chf": 0.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.37,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 22,
+    "carbs_g": 4,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "gehackte tomaten",
+    "pelati",
+    "tomaten dose",
+    "tomatenwürfel"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-072",
+   "name": "Denner Tomaten gehackt Dose",
+   "size_value": 400,
+   "size_unit": "g",
+   "price_chf": 0.85,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.12,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 22,
+    "carbs_g": 4,
+    "protein_g": 1,
+    "fat_g": 0.2
+   }
+  },
+  {
+   "keywords": [
+    "sojasauce",
+    "soja"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-073",
+   "name": "Kikkoman Sojasauce",
+   "size_value": 250,
+   "size_unit": "ml",
+   "price_chf": 3.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 15.6,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 60,
+    "carbs_g": 6,
+    "protein_g": 8,
+    "fat_g": 0
+   }
+  },
+  {
+   "keywords": [
+    "sojasauce",
+    "soja"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-074",
+   "name": "Coop Sojasauce",
+   "size_value": 250,
+   "size_unit": "ml",
+   "price_chf": 2.95,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 11.8,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 60,
+    "carbs_g": 6,
+    "protein_g": 8,
+    "fat_g": 0
+   }
+  },
+  {
+   "keywords": [
+    "currypaste",
+    "curry"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-075",
+   "name": "Thai Kitchen Rote Currypaste",
+   "size_value": 112,
+   "size_unit": "g",
+   "price_chf": 3.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 31.25,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 120,
+    "carbs_g": 10,
+    "protein_g": 2,
+    "fat_g": 8
+   }
+  },
+  {
+   "keywords": [
+    "currypaste",
+    "curry"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-076",
+   "name": "M-Classic Currypulver",
+   "size_value": 50,
+   "size_unit": "g",
+   "price_chf": 1.9,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 38.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 300,
+    "carbs_g": 40,
+    "protein_g": 12,
+    "fat_g": 12
+   }
+  },
+  {
+   "keywords": [
+    "joghurt",
+    "naturejoghurt"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-077",
+   "name": "M-Classic Joghurt nature",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 1.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.4,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 60,
+    "carbs_g": 5,
+    "protein_g": 4,
+    "fat_g": 3
+   }
+  },
+  {
+   "keywords": [
+    "joghurt",
+    "naturejoghurt"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-078",
+   "name": "Denner Joghurt Nature",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 1.05,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.1,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 60,
+    "carbs_g": 5,
+    "protein_g": 4,
+    "fat_g": 3
+   }
+  },
+  {
+   "keywords": [
+    "milch",
+    "vollmilch"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-079",
+   "name": "M-Classic Vollmilch",
+   "size_value": 1,
+   "size_unit": "l",
+   "price_chf": 1.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.6,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 65,
+    "carbs_g": 5,
+    "protein_g": 3,
+    "fat_g": 3.8
+   }
+  },
+  {
+   "keywords": [
+    "milch",
+    "vollmilch"
+   ],
+   "chain": "denner",
+   "product_id": "mock-denner-080",
+   "name": "Denner Vollmilch",
+   "size_value": 1,
+   "size_unit": "l",
+   "price_chf": 1.5,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.5,
+   "unit_price_per": "l",
+   "nutrition": {
+    "kcal": 65,
+    "carbs_g": 5,
+    "protein_g": 3,
+    "fat_g": 3.8
+   }
+  },
+  {
+   "keywords": [
+    "bananen",
+    "banane"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-081",
+   "name": "Migros Bananen",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 2.6,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.6,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 90,
+    "carbs_g": 20,
+    "protein_g": 1,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "bananen",
+    "banane"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-082",
+   "name": "Coop Bananen",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 2.7,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 2.7,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 90,
+    "carbs_g": 20,
+    "protein_g": 1,
+    "fat_g": 0.3
+   }
+  },
+  {
+   "keywords": [
+    "brot",
+    "vollkornbrot"
+   ],
+   "chain": "coop",
+   "product_id": "mock-coop-083",
+   "name": "Coop Vollkornbrot",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 3.3,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 6.6,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 230,
+    "carbs_g": 40,
+    "protein_g": 8,
+    "fat_g": 2
+   }
+  },
+  {
+   "keywords": [
+    "brot",
+    "vollkornbrot"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-084",
+   "name": "M-Classic Ruchbrot",
+   "size_value": 500,
+   "size_unit": "g",
+   "price_chf": 2.8,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 5.6,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 240,
+    "carbs_g": 47,
+    "protein_g": 8,
+    "fat_g": 1.5
+   }
+  },
+  {
+   "keywords": [
+    "salz"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-085",
+   "name": "JuraSel Kochsalz",
+   "size_value": 1,
+   "size_unit": "kg",
+   "price_chf": 1.1,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 1.1,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 0,
+    "carbs_g": 0,
+    "protein_g": 0,
+    "fat_g": 0
+   }
+  },
+  {
+   "keywords": [
+    "pfeffer"
+   ],
+   "chain": "migros",
+   "product_id": "mock-migros-086",
+   "name": "M-Classic Pfeffer schwarz gemahlen",
+   "size_value": 50,
+   "size_unit": "g",
+   "price_chf": 2.2,
+   "regular_price_chf": null,
+   "promotion": false,
+   "unit_price_chf": 44.0,
+   "unit_price_per": "kg",
+   "nutrition": {
+    "kcal": 250,
+    "carbs_g": 40,
+    "protein_g": 10,
+    "fat_g": 3
+   }
+  }
+ ]
+}

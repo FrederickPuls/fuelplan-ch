@@ -1,0 +1,34 @@
+{
+ "zip": "8001",
+ "fetched": "2026-01-01",
+ "source": "Beispieldatei mit Platzhaltern. Eigene Filialen: swissgroceries-mcp find_stores(near={zip:<PLZ>}, radiusKm=3), Ergebnis als stores.json daneben ablegen.",
+ "stores": {
+  "migros": [
+   {
+    "id": "0000000",
+    "name": "Migros Beispielfiliale",
+    "street": "Beispielstrasse 1",
+    "zip": "8001",
+    "city": "Zürich"
+   }
+  ],
+  "coop": [
+   {
+    "id": "0000",
+    "name": "Coop Beispielfiliale",
+    "street": "Beispielstrasse 2",
+    "zip": "8001",
+    "city": "Zürich"
+   }
+  ],
+  "denner": [
+   {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "name": "Denner Beispielfiliale",
+    "street": "Beispielstrasse 3",
+    "zip": "8001",
+    "city": "Zürich"
+   }
+  ]
+ }
+}

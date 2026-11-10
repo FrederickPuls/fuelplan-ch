@@ -1,0 +1,16 @@
+# FuelPlan CH – Phase 1 und 2
+# Installation: .venv/bin/python -m pip install -r requirements.txt
+# Nur die in den Plänen (../Phase1_Plan.md, ../Phase2_Plan.md) genannten Pakete. Neue Pakete vorher absprechen.
+
+anthropic==2.6.0          # LLM-Client (OpenRouter über Anthropic-kompatiblen Endpunkt)
+httpx==0.28.1             # intervals.icu REST-Client (nur GET)
+python-dotenv==1.2.4      # .env laden
+pydantic==2.13.5          # Datenmodelle, Validierung der LLM-Antworten
+mcp==1.30.0               # MCP-Client für swissgroceries-mcp; muss <2 bleiben (garmin-mcp-bridge braucht mcp.server.fastmcp)
+pytest==9.2.0             # Tests
+
+# Phase 2 (Schritt 0): API-Schicht für die PWA. SSE über Starlette StreamingResponse, kein Zusatzpaket.
+fastapi==0.162.2          # API-Schicht (fuelplan/api/), nutzt die bestehenden pydantic-Modelle
+uvicorn==0.54.0           # ASGI-Server für `python -m fuelplan serve`, bindet nur an 127.0.0.1
+
+# openai==...             # nur falls der Fallback in Schritt 5 nötig wird
